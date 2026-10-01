@@ -23,17 +23,26 @@ the public and the community on the ground by highlighting urgent, real-time nee
 
 *📊 Live Metrics & Key Statistics*:
    3,000+ Children Educated: Providing direct access to schooling modules and distributing 12,000+ learning resource kits.
-   45% Supply Shortage Reduction: Optimizing classroom asset and material delivery networks right now using real-time inventory systems. 
-   200+ Women Entrepreneurs Funded: Scheduled to launch community vocational training paths and distribute business micro-grants. 
+   
+   45% Supply Shortage Reduction: Optimizing classroom asset and material delivery networks right now using real-time inventory systems.
+   
+   200+ Women Entrepreneurs Funded: Scheduled to launch community vocational training paths and distribute business micro-grants.
+   
    1,500+ Patients Treated: Successfully administered vital checkups and medical care across 18 mobile health camps. 
-   $50,000+ Total Capital Targeted: Combining $35,000 in public crowdfunding with $25,000 in upcoming secured corporate sponsorships.  
+   
+   $50,000+ Total Capital Targeted: Combining $35,000 in public crowdfunding with $25,000 in upcoming secured corporate sponsorships.
+   
    300+ Volunteers Onboarded: Mobilized an active, well-coordinated community network for rapid field response. 
    
   *👥 Voices of Change*:
    Success StoriesEducation (Sunita - Alumna & Primary Teacher): Overcame early primary school drop-out due to poverty through the NGO's "Bridge School" program. Today,
    she holds a Bachelor's degree and teaches at the very same bridge school. 
    
-   Rural Transformation (Ramesh Patel & Family - Farmers): Beneficiaries of Project Bloom (Gramin Vikas Foundation), utilizing reliable check-dams and micro-irrigation to maintain green fields year-round.          Healthcare (Ramesh Patel - Rural Farmer & Community Elder): Received critical care, early chronic condition diagnosis, and clean water access through the Community Wellness Camp initiative.  
+   Rural Transformation (Ramesh Patel & Family - Farmers): Beneficiaries of Project Bloom (Gramin Vikas Foundation),
+   utilizing reliable check-dams and micro-irrigation to maintain green fields year-round. \
+   
+   Healthcare (Ramesh Patel - Rural Farmer & Community Elder): Received critical care, early chronic
+   condition diagnosis, and clean water access through the Community Wellness Camp initiative.  
 
 
 🔐 Admin Access & CMS PortalPlatform URL: https://eliseo4255.softr.app 
